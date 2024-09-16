@@ -16,8 +16,8 @@ stadiumDetails = DisplayStadiumDetails(stadium, game);
 
 static string GetEnjoymentLevel(){
     System.Console.WriteLine("Do you want to watch a boring, average, fun, or epic football game?");
-    string? enjoymentLevel = Console.ReadLine();
-    return enjoymentLevel ?? "unknown";
+    string enjoymentLevel = Console.ReadLine();
+    return enjoymentLevel;
 }
 
 

@@ -1,0 +1,15 @@
+C:\Users\kates\OneDrive\Documents\source\Fall2024repos\221fall24\mis-221-lab-3-schlagerk\mis-221-lab-3-2nd-link-schlagerk\bin\Debug\net8.0\mis-221-lab-3-schlagerk.exe
+C:\Users\kates\OneDrive\Documents\source\Fall2024repos\221fall24\mis-221-lab-3-schlagerk\mis-221-lab-3-2nd-link-schlagerk\bin\Debug\net8.0\mis-221-lab-3-schlagerk.deps.json
+C:\Users\kates\OneDrive\Documents\source\Fall2024repos\221fall24\mis-221-lab-3-schlagerk\mis-221-lab-3-2nd-link-schlagerk\bin\Debug\net8.0\mis-221-lab-3-schlagerk.runtimeconfig.json
+C:\Users\kates\OneDrive\Documents\source\Fall2024repos\221fall24\mis-221-lab-3-schlagerk\mis-221-lab-3-2nd-link-schlagerk\bin\Debug\net8.0\mis-221-lab-3-schlagerk.dll
+C:\Users\kates\OneDrive\Documents\source\Fall2024repos\221fall24\mis-221-lab-3-schlagerk\mis-221-lab-3-2nd-link-schlagerk\bin\Debug\net8.0\mis-221-lab-3-schlagerk.pdb
+C:\Users\kates\OneDrive\Documents\source\Fall2024repos\221fall24\mis-221-lab-3-schlagerk\mis-221-lab-3-2nd-link-schlagerk\obj\Debug\net8.0\mis-221-lab-3-schlagerk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kates\OneDrive\Documents\source\Fall2024repos\221fall24\mis-221-lab-3-schlagerk\mis-221-lab-3-2nd-link-schlagerk\obj\Debug\net8.0\mis-221-lab-3-schlagerk.AssemblyInfoInputs.cache
+C:\Users\kates\OneDrive\Documents\source\Fall2024repos\221fall24\mis-221-lab-3-schlagerk\mis-221-lab-3-2nd-link-schlagerk\obj\Debug\net8.0\mis-221-lab-3-schlagerk.AssemblyInfo.cs
+C:\Users\kates\OneDrive\Documents\source\Fall2024repos\221fall24\mis-221-lab-3-schlagerk\mis-221-lab-3-2nd-link-schlagerk\obj\Debug\net8.0\mis-221-lab-3-schlagerk.csproj.CoreCompileInputs.cache
+C:\Users\kates\OneDrive\Documents\source\Fall2024repos\221fall24\mis-221-lab-3-schlagerk\mis-221-lab-3-2nd-link-schlagerk\obj\Debug\net8.0\mis-221-lab-3-schlagerk.sourcelink.json
+C:\Users\kates\OneDrive\Documents\source\Fall2024repos\221fall24\mis-221-lab-3-schlagerk\mis-221-lab-3-2nd-link-schlagerk\obj\Debug\net8.0\mis-221-lab-3-schlagerk.dll
+C:\Users\kates\OneDrive\Documents\source\Fall2024repos\221fall24\mis-221-lab-3-schlagerk\mis-221-lab-3-2nd-link-schlagerk\obj\Debug\net8.0\refint\mis-221-lab-3-schlagerk.dll
+C:\Users\kates\OneDrive\Documents\source\Fall2024repos\221fall24\mis-221-lab-3-schlagerk\mis-221-lab-3-2nd-link-schlagerk\obj\Debug\net8.0\mis-221-lab-3-schlagerk.pdb
+C:\Users\kates\OneDrive\Documents\source\Fall2024repos\221fall24\mis-221-lab-3-schlagerk\mis-221-lab-3-2nd-link-schlagerk\obj\Debug\net8.0\mis-221-lab-3-schlagerk.genruntimeconfig.cache
+C:\Users\kates\OneDrive\Documents\source\Fall2024repos\221fall24\mis-221-lab-3-schlagerk\mis-221-lab-3-2nd-link-schlagerk\obj\Debug\net8.0\ref\mis-221-lab-3-schlagerk.dll
